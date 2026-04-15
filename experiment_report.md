@@ -17,7 +17,7 @@ Chay `agent_simulation.py` voi 2 bo du lieu va ghi lai ket qua:
 
 ---
 
-## 2. Phân tích & nhận xét
+## 2. Phan tich & nhan xet
 ### Tại sao Agent trả lời sai khi dùng Garbage Data?
 
 ---
@@ -32,7 +32,7 @@ Agent trả lời sai khi dùng Garbage Data vì dữ liệu rác không đượ
 **Kết luận:** Những lỗ hổng này khiến hệ thống mất đi tính nhất quán, buộc chúng ta phải sử dụng ETL để chuẩn hóa dữ liệu đầu vào.
 
 ---
-## 3. Kết luận
+## 3. Ket luan
 ### Quality Data > Quality Prompt?
 
 Đồng ý – Dù prompt có tốt đến đâu, nếu dữ liệu đầu vào là "rác" (**Garbage In**) thì đầu ra chắc chắn là "rác" (**Garbage Out**). Dữ liệu kém chất lượng gây ra các hệ lụy:
